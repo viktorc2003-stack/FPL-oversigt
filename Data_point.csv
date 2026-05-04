@@ -1,211 +1,211 @@
 ,Entry id,Navn,Holdnavn,GW,Points,Effektive point,Point på bænk,Transfers,Transfers minuspoint,Værdi,Samlede point,Position
-0,937513,Daniel Andreasen,Pain in Diaz,1,54,54,4,0,0,1000,54,4
-1,937513,Daniel Andreasen,Pain in Diaz,2,35,35,8,0,0,1001,89,6
-2,937513,Daniel Andreasen,Pain in Diaz,3,43,43,13,2,0,1000,132,6
-3,937513,Daniel Andreasen,Pain in Diaz,4,65,65,6,0,0,1000,197,6
-4,937513,Daniel Andreasen,Pain in Diaz,5,41,41,9,0,0,999,238,6
-5,937513,Daniel Andreasen,Pain in Diaz,6,71,71,8,0,0,1001,309,5
-6,937513,Daniel Andreasen,Pain in Diaz,7,73,73,17,0,0,1007,382,5
-7,937513,Daniel Andreasen,Pain in Diaz,8,59,59,17,0,0,1015,441,5
-8,937513,Daniel Andreasen,Pain in Diaz,9,39,39,26,2,0,1016,480,5
-9,937513,Daniel Andreasen,Pain in Diaz,10,83,83,16,3,0,1019,563,5
-10,937513,Daniel Andreasen,Pain in Diaz,11,46,46,4,0,0,1024,609,5
-11,937513,Daniel Andreasen,Pain in Diaz,12,43,43,3,1,0,1023,652,4
-12,937513,Daniel Andreasen,Pain in Diaz,13,43,43,6,2,0,1020,695,3
-13,937513,Daniel Andreasen,Pain in Diaz,14,90,90,3,1,0,1019,785,3
-14,937513,Daniel Andreasen,Pain in Diaz,15,40,40,12,1,0,1019,825,4
-15,937513,Daniel Andreasen,Pain in Diaz,16,74,74,7,3,0,1021,899,4
-16,937513,Daniel Andreasen,Pain in Diaz,17,98,98,0,2,0,1025,997,3
-17,937513,Daniel Andreasen,Pain in Diaz,18,45,45,19,2,0,1025,1042,3
-18,937513,Daniel Andreasen,Pain in Diaz,19,44,44,16,0,0,1025,1086,3
-19,937513,Daniel Andreasen,Pain in Diaz,20,55,55,4,2,0,1022,1141,3
-20,937513,Daniel Andreasen,Pain in Diaz,21,49,49,5,0,0,1020,1190,3
-21,937513,Daniel Andreasen,Pain in Diaz,22,40,40,11,0,0,1018,1230,3
-22,937513,Daniel Andreasen,Pain in Diaz,23,34,34,17,0,0,1017,1264,3
-23,937513,Daniel Andreasen,Pain in Diaz,24,63,63,27,0,0,1012,1327,3
-24,937513,Daniel Andreasen,Pain in Diaz,25,77,77,8,0,0,1019,1404,2
-25,937513,Daniel Andreasen,Pain in Diaz,26,62,62,8,1,0,1021,1466,3
-26,937513,Daniel Andreasen,Pain in Diaz,27,58,58,16,1,0,1022,1524,3
-27,937513,Daniel Andreasen,Pain in Diaz,28,70,70,6,3,0,1021,1594,1
-28,937513,Daniel Andreasen,Pain in Diaz,29,49,49,8,0,0,1022,1643,2
-29,937513,Daniel Andreasen,Pain in Diaz,30,70,70,13,0,0,1025,1713,1
-30,937513,Daniel Andreasen,Pain in Diaz,31,54,54,2,3,0,1024,1767,2
-31,937513,Daniel Andreasen,Pain in Diaz,32,54,54,8,0,0,1027,1821,1
-32,937513,Daniel Andreasen,Pain in Diaz,33,89,89,25,0,0,1024,1910,1
-33,937513,Daniel Andreasen,Pain in Diaz,34,32,32,0,2,0,1021,1942,2
-34,937513,Daniel Andreasen,Pain in Diaz,35,47,47,0,3,0,1018,1989,1
-35,367589,Marcus Birch,Too son to handle,1,64,64,8,0,0,1000,64,2
-36,367589,Marcus Birch,Too son to handle,2,62,58,1,2,4,1003,122,3
-37,367589,Marcus Birch,Too son to handle,3,45,45,2,1,0,1005,167,3
-38,367589,Marcus Birch,Too son to handle,4,51,47,9,2,4,1007,214,4
-39,367589,Marcus Birch,Too son to handle,5,36,36,5,0,0,1009,250,5
-40,367589,Marcus Birch,Too son to handle,6,82,82,4,0,0,1012,332,3
-41,367589,Marcus Birch,Too son to handle,7,78,78,10,0,0,1015,410,3
-42,367589,Marcus Birch,Too son to handle,8,65,65,13,0,0,1021,475,3
-43,367589,Marcus Birch,Too son to handle,9,58,58,4,1,0,1020,533,2
-44,367589,Marcus Birch,Too son to handle,10,78,78,4,4,0,1030,611,2
-45,367589,Marcus Birch,Too son to handle,11,51,51,19,0,0,1035,662,2
-46,367589,Marcus Birch,Too son to handle,12,43,43,0,0,0,1038,705,2
-47,367589,Marcus Birch,Too son to handle,13,36,36,5,2,0,1038,741,2
-48,367589,Marcus Birch,Too son to handle,14,82,82,1,1,0,1037,823,2
-49,367589,Marcus Birch,Too son to handle,15,65,65,6,1,0,1036,888,2
-50,367589,Marcus Birch,Too son to handle,16,66,66,1,3,0,1040,954,2
-51,367589,Marcus Birch,Too son to handle,17,56,56,3,0,0,1041,1010,2
-52,367589,Marcus Birch,Too son to handle,18,44,40,11,5,4,1036,1050,2
-53,367589,Marcus Birch,Too son to handle,19,51,47,0,2,4,1037,1097,2
-54,367589,Marcus Birch,Too son to handle,20,60,60,2,0,0,1038,1157,2
-55,367589,Marcus Birch,Too son to handle,21,45,41,11,3,4,1033,1198,2
-56,367589,Marcus Birch,Too son to handle,22,59,59,8,1,0,1033,1257,2
-57,367589,Marcus Birch,Too son to handle,23,48,48,0,0,0,1040,1305,2
-58,367589,Marcus Birch,Too son to handle,24,43,43,0,0,0,1041,1348,2
-59,367589,Marcus Birch,Too son to handle,25,59,55,5,3,4,1033,1403,3
-60,367589,Marcus Birch,Too son to handle,26,72,68,5,2,4,1034,1471,2
-61,367589,Marcus Birch,Too son to handle,27,54,54,0,0,0,1032,1525,2
-62,367589,Marcus Birch,Too son to handle,28,68,68,3,2,0,1031,1593,2
-63,367589,Marcus Birch,Too son to handle,29,60,60,18,0,0,1030,1653,1
-64,367589,Marcus Birch,Too son to handle,30,62,58,0,3,4,1032,1711,2
-65,367589,Marcus Birch,Too son to handle,31,59,59,15,0,0,1033,1770,1
-66,367589,Marcus Birch,Too son to handle,32,50,50,9,1,0,1033,1820,2
-67,367589,Marcus Birch,Too son to handle,33,73,73,12,1,0,1030,1893,2
-68,367589,Marcus Birch,Too son to handle,34,50,50,0,0,0,1029,1943,1
-69,367589,Marcus Birch,Too son to handle,35,35,35,6,2,0,1031,1978,2
-70,405911,Laurits Arneborg,Kinder Mbuemo,1,74,74,6,0,0,1000,74,1
-71,405911,Laurits Arneborg,Kinder Mbuemo,2,62,62,7,1,0,1001,136,2
-72,405911,Laurits Arneborg,Kinder Mbuemo,3,45,45,3,0,0,1005,181,2
-73,405911,Laurits Arneborg,Kinder Mbuemo,4,100,100,7,2,0,1006,281,1
-74,405911,Laurits Arneborg,Kinder Mbuemo,5,58,58,8,0,0,1009,339,1
-75,405911,Laurits Arneborg,Kinder Mbuemo,6,62,62,-1,0,0,1009,401,1
-76,405911,Laurits Arneborg,Kinder Mbuemo,7,72,72,5,0,0,1013,473,1
-77,405911,Laurits Arneborg,Kinder Mbuemo,8,57,57,19,0,0,1016,530,1
-78,405911,Laurits Arneborg,Kinder Mbuemo,9,74,74,6,3,0,1018,604,1
-79,405911,Laurits Arneborg,Kinder Mbuemo,10,70,70,13,0,0,1023,674,1
-80,405911,Laurits Arneborg,Kinder Mbuemo,11,48,48,11,1,0,1026,722,1
-81,405911,Laurits Arneborg,Kinder Mbuemo,12,22,22,5,1,0,1027,744,1
-82,405911,Laurits Arneborg,Kinder Mbuemo,13,37,37,11,0,0,1025,781,1
-83,405911,Laurits Arneborg,Kinder Mbuemo,14,90,90,7,2,0,1019,871,1
-84,405911,Laurits Arneborg,Kinder Mbuemo,15,38,38,11,0,0,1020,909,1
-85,405911,Laurits Arneborg,Kinder Mbuemo,16,82,82,3,4,0,1020,991,1
-86,405911,Laurits Arneborg,Kinder Mbuemo,17,79,79,2,1,0,1023,1070,1
-87,405911,Laurits Arneborg,Kinder Mbuemo,18,44,44,11,0,0,1025,1114,1
-88,405911,Laurits Arneborg,Kinder Mbuemo,19,40,40,7,2,0,1027,1154,1
-89,405911,Laurits Arneborg,Kinder Mbuemo,20,33,33,20,0,0,1028,1187,1
-90,405911,Laurits Arneborg,Kinder Mbuemo,21,49,49,16,2,0,1026,1236,1
-91,405911,Laurits Arneborg,Kinder Mbuemo,22,38,38,30,0,0,1027,1274,1
-92,405911,Laurits Arneborg,Kinder Mbuemo,23,35,35,10,3,0,1028,1309,1
-93,405911,Laurits Arneborg,Kinder Mbuemo,24,51,51,4,0,0,1029,1360,1
-94,405911,Laurits Arneborg,Kinder Mbuemo,25,71,71,2,1,0,1029,1431,1
-95,405911,Laurits Arneborg,Kinder Mbuemo,26,57,57,8,1,0,1030,1488,1
-96,405911,Laurits Arneborg,Kinder Mbuemo,27,39,39,6,0,0,1030,1527,1
-97,405911,Laurits Arneborg,Kinder Mbuemo,28,60,60,0,0,0,1031,1587,3
-98,405911,Laurits Arneborg,Kinder Mbuemo,29,56,56,18,0,0,1022,1643,2
-99,405911,Laurits Arneborg,Kinder Mbuemo,30,57,57,15,0,0,1025,1700,3
-100,405911,Laurits Arneborg,Kinder Mbuemo,31,48,48,10,0,0,1025,1748,3
-101,405911,Laurits Arneborg,Kinder Mbuemo,32,45,45,5,1,0,1028,1793,3
-102,405911,Laurits Arneborg,Kinder Mbuemo,33,77,77,13,3,0,1022,1870,3
-103,405911,Laurits Arneborg,Kinder Mbuemo,34,52,52,0,2,0,1023,1922,3
-104,405911,Laurits Arneborg,Kinder Mbuemo,35,44,44,10,2,0,1027,1966,3
-105,622315,Hampus Saarnak,Los Porro's Hermanos,1,63,63,9,0,0,1000,63,3
-106,622315,Hampus Saarnak,Los Porro's Hermanos,2,85,85,4,0,0,999,148,1
-107,622315,Hampus Saarnak,Los Porro's Hermanos,3,38,38,9,2,0,1003,186,1
-108,622315,Hampus Saarnak,Los Porro's Hermanos,4,70,70,18,1,0,1006,256,2
-109,622315,Hampus Saarnak,Los Porro's Hermanos,5,41,41,6,0,0,1006,297,2
-110,622315,Hampus Saarnak,Los Porro's Hermanos,6,56,56,10,0,0,1004,353,2
-111,622315,Hampus Saarnak,Los Porro's Hermanos,7,48,48,16,1,0,1007,401,4
-112,622315,Hampus Saarnak,Los Porro's Hermanos,8,58,58,6,1,0,1011,459,4
-113,622315,Hampus Saarnak,Los Porro's Hermanos,9,57,57,15,2,0,1014,516,4
-114,622315,Hampus Saarnak,Los Porro's Hermanos,10,85,85,16,0,0,1017,601,3
-115,622315,Hampus Saarnak,Los Porro's Hermanos,11,33,33,8,1,0,1020,634,3
-116,622315,Hampus Saarnak,Los Porro's Hermanos,12,26,26,5,2,0,1020,660,3
-117,622315,Hampus Saarnak,Los Porro's Hermanos,13,28,28,2,0,0,1018,688,4
-118,622315,Hampus Saarnak,Los Porro's Hermanos,14,64,60,12,3,4,1014,748,4
-119,622315,Hampus Saarnak,Los Porro's Hermanos,15,81,81,24,1,0,1019,829,3
-120,622315,Hampus Saarnak,Los Porro's Hermanos,16,95,95,5,4,0,1025,924,3
-121,622315,Hampus Saarnak,Los Porro's Hermanos,17,69,69,14,2,0,1035,993,4
-122,622315,Hampus Saarnak,Los Porro's Hermanos,18,50,46,5,2,4,1037,1039,4
-123,622315,Hampus Saarnak,Los Porro's Hermanos,19,37,37,15,1,0,1039,1076,4
-124,622315,Hampus Saarnak,Los Porro's Hermanos,20,38,38,3,0,0,1041,1114,4
-125,622315,Hampus Saarnak,Los Porro's Hermanos,21,65,65,16,0,0,1028,1179,4
-126,622315,Hampus Saarnak,Los Porro's Hermanos,22,36,36,6,0,0,1036,1215,4
-127,622315,Hampus Saarnak,Los Porro's Hermanos,23,45,41,16,4,4,1037,1256,4
-128,622315,Hampus Saarnak,Los Porro's Hermanos,24,65,65,3,0,0,1043,1321,4
-129,622315,Hampus Saarnak,Los Porro's Hermanos,25,63,63,4,1,0,1045,1384,4
-130,622315,Hampus Saarnak,Los Porro's Hermanos,26,64,64,18,2,0,1047,1448,4
-131,622315,Hampus Saarnak,Los Porro's Hermanos,27,39,39,8,1,0,1046,1487,4
-132,622315,Hampus Saarnak,Los Porro's Hermanos,28,74,74,1,1,0,1045,1561,4
-133,622315,Hampus Saarnak,Los Porro's Hermanos,29,71,67,-1,2,4,1044,1628,4
-134,622315,Hampus Saarnak,Los Porro's Hermanos,30,42,42,12,0,0,1047,1670,4
-135,622315,Hampus Saarnak,Los Porro's Hermanos,31,52,52,7,0,0,1047,1722,4
-136,622315,Hampus Saarnak,Los Porro's Hermanos,32,39,39,12,0,0,1049,1761,4
-137,622315,Hampus Saarnak,Los Porro's Hermanos,33,89,85,11,4,4,1041,1846,4
-138,622315,Hampus Saarnak,Los Porro's Hermanos,34,28,28,0,0,0,1040,1874,4
-139,622315,Hampus Saarnak,Los Porro's Hermanos,35,31,31,19,2,0,1043,1905,4
-140,299970,Viktor Christoffersen,Kai School Musical,1,32,32,9,0,0,1000,32,6
-141,299970,Viktor Christoffersen,Kai School Musical,2,77,77,8,0,0,1000,109,4
-142,299970,Viktor Christoffersen,Kai School Musical,3,55,55,2,1,0,999,164,4
-143,299970,Viktor Christoffersen,Kai School Musical,4,65,65,3,2,0,1000,229,3
-144,299970,Viktor Christoffersen,Kai School Musical,5,43,43,9,0,0,1002,272,3
-145,299970,Viktor Christoffersen,Kai School Musical,6,59,59,16,0,0,1003,331,4
-146,299970,Viktor Christoffersen,Kai School Musical,7,83,83,9,1,0,1006,414,2
-147,299970,Viktor Christoffersen,Kai School Musical,8,66,66,20,2,0,1015,480,2
-148,299970,Viktor Christoffersen,Kai School Musical,9,37,37,6,0,0,1017,517,3
-149,299970,Viktor Christoffersen,Kai School Musical,10,71,71,6,2,0,1024,588,4
-150,299970,Viktor Christoffersen,Kai School Musical,11,35,35,2,0,0,1025,623,4
-151,299970,Viktor Christoffersen,Kai School Musical,12,27,27,2,0,0,1023,650,5
-152,299970,Viktor Christoffersen,Kai School Musical,13,28,28,2,3,0,1019,678,5
-153,299970,Viktor Christoffersen,Kai School Musical,14,65,65,2,1,0,1018,743,5
-154,299970,Viktor Christoffersen,Kai School Musical,15,52,52,17,0,0,1016,795,5
-155,299970,Viktor Christoffersen,Kai School Musical,16,67,67,3,5,0,1013,862,5
-156,299970,Viktor Christoffersen,Kai School Musical,17,84,84,6,0,0,1017,946,5
-157,299970,Viktor Christoffersen,Kai School Musical,18,50,50,0,0,0,1019,996,5
-158,299970,Viktor Christoffersen,Kai School Musical,19,31,31,2,2,0,1020,1027,5
-159,299970,Viktor Christoffersen,Kai School Musical,20,32,32,1,1,0,1019,1059,5
-160,299970,Viktor Christoffersen,Kai School Musical,21,58,58,4,0,0,1016,1117,5
-161,299970,Viktor Christoffersen,Kai School Musical,22,43,39,6,3,4,1012,1156,5
-162,299970,Viktor Christoffersen,Kai School Musical,23,34,30,9,2,4,1015,1186,5
-163,299970,Viktor Christoffersen,Kai School Musical,24,62,62,3,0,0,1017,1248,5
-164,299970,Viktor Christoffersen,Kai School Musical,25,69,69,18,2,0,1019,1317,5
-165,299970,Viktor Christoffersen,Kai School Musical,26,56,56,13,0,0,1020,1373,5
-166,299970,Viktor Christoffersen,Kai School Musical,27,52,52,9,0,0,1019,1425,5
-167,299970,Viktor Christoffersen,Kai School Musical,28,85,85,5,0,0,1017,1510,5
-168,299970,Viktor Christoffersen,Kai School Musical,29,86,86,0,1,0,1022,1596,5
-169,299970,Viktor Christoffersen,Kai School Musical,30,48,48,28,0,0,1029,1644,5
-170,299970,Viktor Christoffersen,Kai School Musical,31,57,57,8,0,0,1028,1701,5
-171,299970,Viktor Christoffersen,Kai School Musical,32,43,43,4,2,0,1033,1744,5
-172,299970,Viktor Christoffersen,Kai School Musical,33,86,86,10,3,0,1026,1830,5
-173,299970,Viktor Christoffersen,Kai School Musical,34,30,30,2,0,0,1026,1860,5
-174,299970,Viktor Christoffersen,Kai School Musical,35,42,42,9,2,0,1023,1902,5
-175,473371,Mikail Ates,Toast med Soucek,1,43,43,6,0,0,1000,43,5
-176,473371,Mikail Ates,Toast med Soucek,2,57,53,8,2,4,1000,96,5
-177,473371,Mikail Ates,Toast med Soucek,3,43,43,6,0,0,1008,139,5
-178,473371,Mikail Ates,Toast med Soucek,4,70,70,6,1,0,1011,209,5
-179,473371,Mikail Ates,Toast med Soucek,5,57,57,22,1,0,1015,266,4
-180,473371,Mikail Ates,Toast med Soucek,6,37,37,1,1,0,1016,303,6
-181,473371,Mikail Ates,Toast med Soucek,7,61,57,20,2,4,1018,360,6
-182,473371,Mikail Ates,Toast med Soucek,8,69,69,4,1,0,1022,429,6
-183,473371,Mikail Ates,Toast med Soucek,9,37,37,5,1,0,1023,466,6
-184,473371,Mikail Ates,Toast med Soucek,10,72,72,7,1,0,1026,538,6
-185,473371,Mikail Ates,Toast med Soucek,11,46,42,3,2,4,1026,580,6
-186,473371,Mikail Ates,Toast med Soucek,12,42,42,14,0,0,1024,622,6
-187,473371,Mikail Ates,Toast med Soucek,13,52,52,11,1,0,1024,674,6
-188,473371,Mikail Ates,Toast med Soucek,14,64,60,9,2,4,1024,734,6
-189,473371,Mikail Ates,Toast med Soucek,15,51,51,23,1,0,1025,785,6
-190,473371,Mikail Ates,Toast med Soucek,16,58,58,5,5,0,1033,843,6
-191,473371,Mikail Ates,Toast med Soucek,17,78,70,0,3,8,1035,913,6
-192,473371,Mikail Ates,Toast med Soucek,18,49,41,14,3,8,1032,954,6
-193,473371,Mikail Ates,Toast med Soucek,19,44,44,6,1,0,1034,998,6
-194,473371,Mikail Ates,Toast med Soucek,20,30,30,3,0,0,1033,1028,6
-195,473371,Mikail Ates,Toast med Soucek,21,50,50,13,2,0,1030,1078,6
-196,473371,Mikail Ates,Toast med Soucek,22,47,43,6,2,4,1033,1121,6
-197,473371,Mikail Ates,Toast med Soucek,23,45,45,11,0,0,1036,1166,6
-198,473371,Mikail Ates,Toast med Soucek,24,67,63,14,3,4,1038,1229,6
-199,473371,Mikail Ates,Toast med Soucek,25,68,68,8,1,0,1040,1297,6
-200,473371,Mikail Ates,Toast med Soucek,26,54,54,10,0,0,1043,1351,6
-201,473371,Mikail Ates,Toast med Soucek,27,43,43,10,1,0,1041,1394,6
-202,473371,Mikail Ates,Toast med Soucek,28,66,66,6,0,0,1035,1460,6
-203,473371,Mikail Ates,Toast med Soucek,29,59,59,10,0,0,1040,1519,6
-204,473371,Mikail Ates,Toast med Soucek,30,46,46,19,0,0,1043,1565,6
-205,473371,Mikail Ates,Toast med Soucek,31,47,43,2,4,4,1037,1608,6
-206,473371,Mikail Ates,Toast med Soucek,32,61,61,11,1,0,1039,1669,6
-207,473371,Mikail Ates,Toast med Soucek,33,86,86,5,1,0,1034,1755,6
-208,473371,Mikail Ates,Toast med Soucek,34,33,33,0,0,0,1033,1788,6
-209,473371,Mikail Ates,Toast med Soucek,35,48,48,7,2,0,1032,1836,6
+0,937513,Daniel Andreasen,Pain in Diaz,1,54,54,4,0,0,100.0,54,4
+1,937513,Daniel Andreasen,Pain in Diaz,2,35,35,8,0,0,100.1,89,6
+2,937513,Daniel Andreasen,Pain in Diaz,3,43,43,13,2,0,100.0,132,6
+3,937513,Daniel Andreasen,Pain in Diaz,4,65,65,6,0,0,100.0,197,6
+4,937513,Daniel Andreasen,Pain in Diaz,5,41,41,9,0,0,99.9,238,6
+5,937513,Daniel Andreasen,Pain in Diaz,6,71,71,8,0,0,100.1,309,5
+6,937513,Daniel Andreasen,Pain in Diaz,7,73,73,17,0,0,100.7,382,5
+7,937513,Daniel Andreasen,Pain in Diaz,8,59,59,17,0,0,101.5,441,5
+8,937513,Daniel Andreasen,Pain in Diaz,9,39,39,26,2,0,101.6,480,5
+9,937513,Daniel Andreasen,Pain in Diaz,10,83,83,16,3,0,101.9,563,5
+10,937513,Daniel Andreasen,Pain in Diaz,11,46,46,4,0,0,102.4,609,5
+11,937513,Daniel Andreasen,Pain in Diaz,12,43,43,3,1,0,102.3,652,4
+12,937513,Daniel Andreasen,Pain in Diaz,13,43,43,6,2,0,102.0,695,3
+13,937513,Daniel Andreasen,Pain in Diaz,14,90,90,3,1,0,101.9,785,3
+14,937513,Daniel Andreasen,Pain in Diaz,15,40,40,12,1,0,101.9,825,4
+15,937513,Daniel Andreasen,Pain in Diaz,16,74,74,7,3,0,102.1,899,4
+16,937513,Daniel Andreasen,Pain in Diaz,17,98,98,0,2,0,102.5,997,3
+17,937513,Daniel Andreasen,Pain in Diaz,18,45,45,19,2,0,102.5,1042,3
+18,937513,Daniel Andreasen,Pain in Diaz,19,44,44,16,0,0,102.5,1086,3
+19,937513,Daniel Andreasen,Pain in Diaz,20,55,55,4,2,0,102.2,1141,3
+20,937513,Daniel Andreasen,Pain in Diaz,21,49,49,5,0,0,102.0,1190,3
+21,937513,Daniel Andreasen,Pain in Diaz,22,40,40,11,0,0,101.8,1230,3
+22,937513,Daniel Andreasen,Pain in Diaz,23,34,34,17,0,0,101.7,1264,3
+23,937513,Daniel Andreasen,Pain in Diaz,24,63,63,27,0,0,101.2,1327,3
+24,937513,Daniel Andreasen,Pain in Diaz,25,77,77,8,0,0,101.9,1404,2
+25,937513,Daniel Andreasen,Pain in Diaz,26,62,62,8,1,0,102.1,1466,3
+26,937513,Daniel Andreasen,Pain in Diaz,27,58,58,16,1,0,102.2,1524,3
+27,937513,Daniel Andreasen,Pain in Diaz,28,70,70,6,3,0,102.1,1594,1
+28,937513,Daniel Andreasen,Pain in Diaz,29,49,49,8,0,0,102.2,1643,2
+29,937513,Daniel Andreasen,Pain in Diaz,30,70,70,13,0,0,102.5,1713,1
+30,937513,Daniel Andreasen,Pain in Diaz,31,54,54,2,3,0,102.4,1767,2
+31,937513,Daniel Andreasen,Pain in Diaz,32,54,54,8,0,0,102.7,1821,1
+32,937513,Daniel Andreasen,Pain in Diaz,33,89,89,25,0,0,102.4,1910,1
+33,937513,Daniel Andreasen,Pain in Diaz,34,32,32,0,2,0,102.1,1942,2
+34,937513,Daniel Andreasen,Pain in Diaz,35,47,47,0,3,0,101.8,1989,1
+35,367589,Marcus Birch,Too son to handle,1,64,64,8,0,0,100.0,64,2
+36,367589,Marcus Birch,Too son to handle,2,62,58,1,2,4,100.3,122,3
+37,367589,Marcus Birch,Too son to handle,3,45,45,2,1,0,100.5,167,3
+38,367589,Marcus Birch,Too son to handle,4,51,47,9,2,4,100.7,214,4
+39,367589,Marcus Birch,Too son to handle,5,36,36,5,0,0,100.9,250,5
+40,367589,Marcus Birch,Too son to handle,6,82,82,4,0,0,101.2,332,3
+41,367589,Marcus Birch,Too son to handle,7,78,78,10,0,0,101.5,410,3
+42,367589,Marcus Birch,Too son to handle,8,65,65,13,0,0,102.1,475,3
+43,367589,Marcus Birch,Too son to handle,9,58,58,4,1,0,102.0,533,2
+44,367589,Marcus Birch,Too son to handle,10,78,78,4,4,0,103.0,611,2
+45,367589,Marcus Birch,Too son to handle,11,51,51,19,0,0,103.5,662,2
+46,367589,Marcus Birch,Too son to handle,12,43,43,0,0,0,103.8,705,2
+47,367589,Marcus Birch,Too son to handle,13,36,36,5,2,0,103.8,741,2
+48,367589,Marcus Birch,Too son to handle,14,82,82,1,1,0,103.7,823,2
+49,367589,Marcus Birch,Too son to handle,15,65,65,6,1,0,103.6,888,2
+50,367589,Marcus Birch,Too son to handle,16,66,66,1,3,0,104.0,954,2
+51,367589,Marcus Birch,Too son to handle,17,56,56,3,0,0,104.1,1010,2
+52,367589,Marcus Birch,Too son to handle,18,44,40,11,5,4,103.6,1050,2
+53,367589,Marcus Birch,Too son to handle,19,51,47,0,2,4,103.7,1097,2
+54,367589,Marcus Birch,Too son to handle,20,60,60,2,0,0,103.8,1157,2
+55,367589,Marcus Birch,Too son to handle,21,45,41,11,3,4,103.3,1198,2
+56,367589,Marcus Birch,Too son to handle,22,59,59,8,1,0,103.3,1257,2
+57,367589,Marcus Birch,Too son to handle,23,48,48,0,0,0,104.0,1305,2
+58,367589,Marcus Birch,Too son to handle,24,43,43,0,0,0,104.1,1348,2
+59,367589,Marcus Birch,Too son to handle,25,59,55,5,3,4,103.3,1403,3
+60,367589,Marcus Birch,Too son to handle,26,72,68,5,2,4,103.4,1471,2
+61,367589,Marcus Birch,Too son to handle,27,54,54,0,0,0,103.2,1525,2
+62,367589,Marcus Birch,Too son to handle,28,68,68,3,2,0,103.1,1593,2
+63,367589,Marcus Birch,Too son to handle,29,60,60,18,0,0,103.0,1653,1
+64,367589,Marcus Birch,Too son to handle,30,62,58,0,3,4,103.2,1711,2
+65,367589,Marcus Birch,Too son to handle,31,59,59,15,0,0,103.3,1770,1
+66,367589,Marcus Birch,Too son to handle,32,50,50,9,1,0,103.3,1820,2
+67,367589,Marcus Birch,Too son to handle,33,73,73,12,1,0,103.0,1893,2
+68,367589,Marcus Birch,Too son to handle,34,50,50,0,0,0,102.9,1943,1
+69,367589,Marcus Birch,Too son to handle,35,35,35,6,2,0,103.1,1978,2
+70,405911,Laurits Arneborg,Kinder Mbuemo,1,74,74,6,0,0,100.0,74,1
+71,405911,Laurits Arneborg,Kinder Mbuemo,2,62,62,7,1,0,100.1,136,2
+72,405911,Laurits Arneborg,Kinder Mbuemo,3,45,45,3,0,0,100.5,181,2
+73,405911,Laurits Arneborg,Kinder Mbuemo,4,100,100,7,2,0,100.6,281,1
+74,405911,Laurits Arneborg,Kinder Mbuemo,5,58,58,8,0,0,100.9,339,1
+75,405911,Laurits Arneborg,Kinder Mbuemo,6,62,62,-1,0,0,100.9,401,1
+76,405911,Laurits Arneborg,Kinder Mbuemo,7,72,72,5,0,0,101.3,473,1
+77,405911,Laurits Arneborg,Kinder Mbuemo,8,57,57,19,0,0,101.6,530,1
+78,405911,Laurits Arneborg,Kinder Mbuemo,9,74,74,6,3,0,101.8,604,1
+79,405911,Laurits Arneborg,Kinder Mbuemo,10,70,70,13,0,0,102.3,674,1
+80,405911,Laurits Arneborg,Kinder Mbuemo,11,48,48,11,1,0,102.6,722,1
+81,405911,Laurits Arneborg,Kinder Mbuemo,12,22,22,5,1,0,102.7,744,1
+82,405911,Laurits Arneborg,Kinder Mbuemo,13,37,37,11,0,0,102.5,781,1
+83,405911,Laurits Arneborg,Kinder Mbuemo,14,90,90,7,2,0,101.9,871,1
+84,405911,Laurits Arneborg,Kinder Mbuemo,15,38,38,11,0,0,102.0,909,1
+85,405911,Laurits Arneborg,Kinder Mbuemo,16,82,82,3,4,0,102.0,991,1
+86,405911,Laurits Arneborg,Kinder Mbuemo,17,79,79,2,1,0,102.3,1070,1
+87,405911,Laurits Arneborg,Kinder Mbuemo,18,44,44,11,0,0,102.5,1114,1
+88,405911,Laurits Arneborg,Kinder Mbuemo,19,40,40,7,2,0,102.7,1154,1
+89,405911,Laurits Arneborg,Kinder Mbuemo,20,33,33,20,0,0,102.8,1187,1
+90,405911,Laurits Arneborg,Kinder Mbuemo,21,49,49,16,2,0,102.6,1236,1
+91,405911,Laurits Arneborg,Kinder Mbuemo,22,38,38,30,0,0,102.7,1274,1
+92,405911,Laurits Arneborg,Kinder Mbuemo,23,35,35,10,3,0,102.8,1309,1
+93,405911,Laurits Arneborg,Kinder Mbuemo,24,51,51,4,0,0,102.9,1360,1
+94,405911,Laurits Arneborg,Kinder Mbuemo,25,71,71,2,1,0,102.9,1431,1
+95,405911,Laurits Arneborg,Kinder Mbuemo,26,57,57,8,1,0,103.0,1488,1
+96,405911,Laurits Arneborg,Kinder Mbuemo,27,39,39,6,0,0,103.0,1527,1
+97,405911,Laurits Arneborg,Kinder Mbuemo,28,60,60,0,0,0,103.1,1587,3
+98,405911,Laurits Arneborg,Kinder Mbuemo,29,56,56,18,0,0,102.2,1643,2
+99,405911,Laurits Arneborg,Kinder Mbuemo,30,57,57,15,0,0,102.5,1700,3
+100,405911,Laurits Arneborg,Kinder Mbuemo,31,48,48,10,0,0,102.5,1748,3
+101,405911,Laurits Arneborg,Kinder Mbuemo,32,45,45,5,1,0,102.8,1793,3
+102,405911,Laurits Arneborg,Kinder Mbuemo,33,77,77,13,3,0,102.2,1870,3
+103,405911,Laurits Arneborg,Kinder Mbuemo,34,52,52,0,2,0,102.3,1922,3
+104,405911,Laurits Arneborg,Kinder Mbuemo,35,44,44,10,2,0,102.7,1966,3
+105,622315,Hampus Saarnak,Los Porro's Hermanos,1,63,63,9,0,0,100.0,63,3
+106,622315,Hampus Saarnak,Los Porro's Hermanos,2,85,85,4,0,0,99.9,148,1
+107,622315,Hampus Saarnak,Los Porro's Hermanos,3,38,38,9,2,0,100.3,186,1
+108,622315,Hampus Saarnak,Los Porro's Hermanos,4,70,70,18,1,0,100.6,256,2
+109,622315,Hampus Saarnak,Los Porro's Hermanos,5,41,41,6,0,0,100.6,297,2
+110,622315,Hampus Saarnak,Los Porro's Hermanos,6,56,56,10,0,0,100.4,353,2
+111,622315,Hampus Saarnak,Los Porro's Hermanos,7,48,48,16,1,0,100.7,401,4
+112,622315,Hampus Saarnak,Los Porro's Hermanos,8,58,58,6,1,0,101.1,459,4
+113,622315,Hampus Saarnak,Los Porro's Hermanos,9,57,57,15,2,0,101.4,516,4
+114,622315,Hampus Saarnak,Los Porro's Hermanos,10,85,85,16,0,0,101.7,601,3
+115,622315,Hampus Saarnak,Los Porro's Hermanos,11,33,33,8,1,0,102.0,634,3
+116,622315,Hampus Saarnak,Los Porro's Hermanos,12,26,26,5,2,0,102.0,660,3
+117,622315,Hampus Saarnak,Los Porro's Hermanos,13,28,28,2,0,0,101.8,688,4
+118,622315,Hampus Saarnak,Los Porro's Hermanos,14,64,60,12,3,4,101.4,748,4
+119,622315,Hampus Saarnak,Los Porro's Hermanos,15,81,81,24,1,0,101.9,829,3
+120,622315,Hampus Saarnak,Los Porro's Hermanos,16,95,95,5,4,0,102.5,924,3
+121,622315,Hampus Saarnak,Los Porro's Hermanos,17,69,69,14,2,0,103.5,993,4
+122,622315,Hampus Saarnak,Los Porro's Hermanos,18,50,46,5,2,4,103.7,1039,4
+123,622315,Hampus Saarnak,Los Porro's Hermanos,19,37,37,15,1,0,103.9,1076,4
+124,622315,Hampus Saarnak,Los Porro's Hermanos,20,38,38,3,0,0,104.1,1114,4
+125,622315,Hampus Saarnak,Los Porro's Hermanos,21,65,65,16,0,0,102.8,1179,4
+126,622315,Hampus Saarnak,Los Porro's Hermanos,22,36,36,6,0,0,103.6,1215,4
+127,622315,Hampus Saarnak,Los Porro's Hermanos,23,45,41,16,4,4,103.7,1256,4
+128,622315,Hampus Saarnak,Los Porro's Hermanos,24,65,65,3,0,0,104.3,1321,4
+129,622315,Hampus Saarnak,Los Porro's Hermanos,25,63,63,4,1,0,104.5,1384,4
+130,622315,Hampus Saarnak,Los Porro's Hermanos,26,64,64,18,2,0,104.7,1448,4
+131,622315,Hampus Saarnak,Los Porro's Hermanos,27,39,39,8,1,0,104.6,1487,4
+132,622315,Hampus Saarnak,Los Porro's Hermanos,28,74,74,1,1,0,104.5,1561,4
+133,622315,Hampus Saarnak,Los Porro's Hermanos,29,71,67,-1,2,4,104.4,1628,4
+134,622315,Hampus Saarnak,Los Porro's Hermanos,30,42,42,12,0,0,104.7,1670,4
+135,622315,Hampus Saarnak,Los Porro's Hermanos,31,52,52,7,0,0,104.7,1722,4
+136,622315,Hampus Saarnak,Los Porro's Hermanos,32,39,39,12,0,0,104.9,1761,4
+137,622315,Hampus Saarnak,Los Porro's Hermanos,33,89,85,11,4,4,104.1,1846,4
+138,622315,Hampus Saarnak,Los Porro's Hermanos,34,28,28,0,0,0,104.0,1874,4
+139,622315,Hampus Saarnak,Los Porro's Hermanos,35,31,31,19,2,0,104.3,1905,4
+140,299970,Viktor Christoffersen,Kai School Musical,1,32,32,9,0,0,100.0,32,6
+141,299970,Viktor Christoffersen,Kai School Musical,2,77,77,8,0,0,100.0,109,4
+142,299970,Viktor Christoffersen,Kai School Musical,3,55,55,2,1,0,99.9,164,4
+143,299970,Viktor Christoffersen,Kai School Musical,4,65,65,3,2,0,100.0,229,3
+144,299970,Viktor Christoffersen,Kai School Musical,5,43,43,9,0,0,100.2,272,3
+145,299970,Viktor Christoffersen,Kai School Musical,6,59,59,16,0,0,100.3,331,4
+146,299970,Viktor Christoffersen,Kai School Musical,7,83,83,9,1,0,100.6,414,2
+147,299970,Viktor Christoffersen,Kai School Musical,8,66,66,20,2,0,101.5,480,2
+148,299970,Viktor Christoffersen,Kai School Musical,9,37,37,6,0,0,101.7,517,3
+149,299970,Viktor Christoffersen,Kai School Musical,10,71,71,6,2,0,102.4,588,4
+150,299970,Viktor Christoffersen,Kai School Musical,11,35,35,2,0,0,102.5,623,4
+151,299970,Viktor Christoffersen,Kai School Musical,12,27,27,2,0,0,102.3,650,5
+152,299970,Viktor Christoffersen,Kai School Musical,13,28,28,2,3,0,101.9,678,5
+153,299970,Viktor Christoffersen,Kai School Musical,14,65,65,2,1,0,101.8,743,5
+154,299970,Viktor Christoffersen,Kai School Musical,15,52,52,17,0,0,101.6,795,5
+155,299970,Viktor Christoffersen,Kai School Musical,16,67,67,3,5,0,101.3,862,5
+156,299970,Viktor Christoffersen,Kai School Musical,17,84,84,6,0,0,101.7,946,5
+157,299970,Viktor Christoffersen,Kai School Musical,18,50,50,0,0,0,101.9,996,5
+158,299970,Viktor Christoffersen,Kai School Musical,19,31,31,2,2,0,102.0,1027,5
+159,299970,Viktor Christoffersen,Kai School Musical,20,32,32,1,1,0,101.9,1059,5
+160,299970,Viktor Christoffersen,Kai School Musical,21,58,58,4,0,0,101.6,1117,5
+161,299970,Viktor Christoffersen,Kai School Musical,22,43,39,6,3,4,101.2,1156,5
+162,299970,Viktor Christoffersen,Kai School Musical,23,34,30,9,2,4,101.5,1186,5
+163,299970,Viktor Christoffersen,Kai School Musical,24,62,62,3,0,0,101.7,1248,5
+164,299970,Viktor Christoffersen,Kai School Musical,25,69,69,18,2,0,101.9,1317,5
+165,299970,Viktor Christoffersen,Kai School Musical,26,56,56,13,0,0,102.0,1373,5
+166,299970,Viktor Christoffersen,Kai School Musical,27,52,52,9,0,0,101.9,1425,5
+167,299970,Viktor Christoffersen,Kai School Musical,28,85,85,5,0,0,101.7,1510,5
+168,299970,Viktor Christoffersen,Kai School Musical,29,86,86,0,1,0,102.2,1596,5
+169,299970,Viktor Christoffersen,Kai School Musical,30,48,48,28,0,0,102.9,1644,5
+170,299970,Viktor Christoffersen,Kai School Musical,31,57,57,8,0,0,102.8,1701,5
+171,299970,Viktor Christoffersen,Kai School Musical,32,43,43,4,2,0,103.3,1744,5
+172,299970,Viktor Christoffersen,Kai School Musical,33,86,86,10,3,0,102.6,1830,5
+173,299970,Viktor Christoffersen,Kai School Musical,34,30,30,2,0,0,102.6,1860,5
+174,299970,Viktor Christoffersen,Kai School Musical,35,42,42,9,2,0,102.3,1902,5
+175,473371,Mikail Ates,Toast med Soucek,1,43,43,6,0,0,100.0,43,5
+176,473371,Mikail Ates,Toast med Soucek,2,57,53,8,2,4,100.0,96,5
+177,473371,Mikail Ates,Toast med Soucek,3,43,43,6,0,0,100.8,139,5
+178,473371,Mikail Ates,Toast med Soucek,4,70,70,6,1,0,101.1,209,5
+179,473371,Mikail Ates,Toast med Soucek,5,57,57,22,1,0,101.5,266,4
+180,473371,Mikail Ates,Toast med Soucek,6,37,37,1,1,0,101.6,303,6
+181,473371,Mikail Ates,Toast med Soucek,7,61,57,20,2,4,101.8,360,6
+182,473371,Mikail Ates,Toast med Soucek,8,69,69,4,1,0,102.2,429,6
+183,473371,Mikail Ates,Toast med Soucek,9,37,37,5,1,0,102.3,466,6
+184,473371,Mikail Ates,Toast med Soucek,10,72,72,7,1,0,102.6,538,6
+185,473371,Mikail Ates,Toast med Soucek,11,46,42,3,2,4,102.6,580,6
+186,473371,Mikail Ates,Toast med Soucek,12,42,42,14,0,0,102.4,622,6
+187,473371,Mikail Ates,Toast med Soucek,13,52,52,11,1,0,102.4,674,6
+188,473371,Mikail Ates,Toast med Soucek,14,64,60,9,2,4,102.4,734,6
+189,473371,Mikail Ates,Toast med Soucek,15,51,51,23,1,0,102.5,785,6
+190,473371,Mikail Ates,Toast med Soucek,16,58,58,5,5,0,103.3,843,6
+191,473371,Mikail Ates,Toast med Soucek,17,78,70,0,3,8,103.5,913,6
+192,473371,Mikail Ates,Toast med Soucek,18,49,41,14,3,8,103.2,954,6
+193,473371,Mikail Ates,Toast med Soucek,19,44,44,6,1,0,103.4,998,6
+194,473371,Mikail Ates,Toast med Soucek,20,30,30,3,0,0,103.3,1028,6
+195,473371,Mikail Ates,Toast med Soucek,21,50,50,13,2,0,103.0,1078,6
+196,473371,Mikail Ates,Toast med Soucek,22,47,43,6,2,4,103.3,1121,6
+197,473371,Mikail Ates,Toast med Soucek,23,45,45,11,0,0,103.6,1166,6
+198,473371,Mikail Ates,Toast med Soucek,24,67,63,14,3,4,103.8,1229,6
+199,473371,Mikail Ates,Toast med Soucek,25,68,68,8,1,0,104.0,1297,6
+200,473371,Mikail Ates,Toast med Soucek,26,54,54,10,0,0,104.3,1351,6
+201,473371,Mikail Ates,Toast med Soucek,27,43,43,10,1,0,104.1,1394,6
+202,473371,Mikail Ates,Toast med Soucek,28,66,66,6,0,0,103.5,1460,6
+203,473371,Mikail Ates,Toast med Soucek,29,59,59,10,0,0,104.0,1519,6
+204,473371,Mikail Ates,Toast med Soucek,30,46,46,19,0,0,104.3,1565,6
+205,473371,Mikail Ates,Toast med Soucek,31,47,43,2,4,4,103.7,1608,6
+206,473371,Mikail Ates,Toast med Soucek,32,61,61,11,1,0,103.9,1669,6
+207,473371,Mikail Ates,Toast med Soucek,33,86,86,5,1,0,103.4,1755,6
+208,473371,Mikail Ates,Toast med Soucek,34,33,33,0,0,0,103.3,1788,6
+209,473371,Mikail Ates,Toast med Soucek,35,48,48,7,2,0,103.2,1836,6
