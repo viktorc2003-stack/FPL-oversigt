@@ -16,24 +16,28 @@ def load_data():
         D_point = pd.read_csv("Data_point.csv")
         D_chips = pd.read_csv("Data_chips.csv")
 
-        # --- FIX: Holdværdi konvertering (fra tusinder til millioner) ---
+        # --- FIX 1: Slet 'Unnamed' kolonnerne permanent ---
+        D_point = D_point.loc[:, ~D_point.columns.str.contains('^Unnamed')]
+        D_chips = D_chips.loc[:, ~D_chips.columns.str.contains('^Unnamed')]
+
+        # Holdværdi konvertering (fra tusinder til millioner)
         if 'Værdi' in D_point.columns and D_point['Værdi'].max() > 200:
             D_point['Værdi'] = D_point['Værdi'] / 10
 
-        # --- DIN VIRKENDE CHIP-KODE ---
         id_vars = ['Entry id', 'Navn', 'Holdnavn']
-        chip_cols = [col for col in D_chips.columns if col not in id_vars and "Unnamed" not in col]
+        chip_cols = [col for col in D_chips.columns if col not in id_vars]
         
         D_chips_long = D_chips.melt(id_vars=id_vars, value_vars=chip_cols, var_name='Chip', value_name='GW')
         D_chips_long = D_chips_long.dropna(subset=['GW'])
         
+        # --- FIX 2: Tving GW til at være ens (heltal) INDEN vi fletter dem! ---
+        D_point['GW'] = D_point['GW'].astype(int)
+        D_chips_long['GW'] = D_chips_long['GW'].astype(int)
+        
         D = pd.merge(D_point, D_chips_long[['Entry id', 'GW', 'Chip']], on=['Entry id', 'GW'], how='left')
         
-        # Rens skriften (Fjerner underscores fra chips, så wildcard_1 bliver Wildcard 1)
+        # Rens skriften (Fjerner underscores fra chips)
         D['Chip'] = D['Chip'].fillna("").str.replace('_', ' ').str.title()
-        
-        # Sikr at GW er hele tal for grafernes skyld
-        D['GW'] = D['GW'].astype(int)
         
         return D
         
@@ -118,7 +122,8 @@ if not D.empty:
             st.pyplot(fig2)
 
         st.subheader("Rå data")
-        st.dataframe(df, use_container_width=True)
+        # hide_index=True fjerner rækkenumrene helt ude til venstre!
+        st.dataframe(df, use_container_width=True, hide_index=True)
 
     # ==========================================
     # FANE 2: LIGA OVERSIGT
@@ -200,6 +205,6 @@ if not D.empty:
         
         avg_stats.columns = ['Navn', 'Gns. point pr. runde', 'Gns. point på bænken', 'Transfers i alt', 'Transfer minuspoint']
         avg_stats = avg_stats.sort_values(by="Gns. point pr. runde", ascending=False)
-        avg_stats.index = range(1, len(avg_stats) + 1)
         
-        st.dataframe(avg_stats, use_container_width=True)
+        # hide_index=True fjerner rækkenumrene her også
+        st.dataframe(avg_stats, use_container_width=True, hide_index=True)
