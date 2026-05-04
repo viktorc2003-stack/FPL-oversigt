@@ -16,44 +16,24 @@ def load_data():
         D_point = pd.read_csv("Data_point.csv")
         D_chips = pd.read_csv("Data_chips.csv")
 
-        # --- FIX 1: Holdværdi konvertering ---
-        # Hvis værdierne er over 200 (f.eks. 1014), så er de i tusinder og divideres med 10
-        if 'Værdi' in D_point.columns and D_point['Værdi'].mean() > 200:
+        # --- FIX: Holdværdi konvertering (fra tusinder til millioner) ---
+        if 'Værdi' in D_point.columns and D_point['Værdi'].max() > 200:
             D_point['Værdi'] = D_point['Værdi'] / 10
 
-        # --- FIX 2: Sikker oversættelse af chips (fx triple_1 og wildcard_2) ---
+        # --- DIN VIRKENDE CHIP-KODE ---
         id_vars = ['Entry id', 'Navn', 'Holdnavn']
         chip_cols = [col for col in D_chips.columns if col not in id_vars and "Unnamed" not in col]
         
-        # Vend dataen om, så vi kan læse den
-        D_chips_long = D_chips.melt(id_vars=id_vars, value_vars=chip_cols, var_name='Rå_Chip', value_name='GW')
-        
-        # Sikr at GW er et tal, og fjern fejl eller nuller fra gamle u-brugte chips
-        D_chips_long['GW'] = pd.to_numeric(D_chips_long['GW'], errors='coerce')
+        D_chips_long = D_chips.melt(id_vars=id_vars, value_vars=chip_cols, var_name='Chip', value_name='GW')
         D_chips_long = D_chips_long.dropna(subset=['GW'])
-        D_chips_long = D_chips_long[D_chips_long['GW'] > 0] # Fjerner chips sat til GW 0
-        D_chips_long['GW'] = D_chips_long['GW'].astype(int)
         
-        # Funktion der fjerner "_1", "_2" og giver dem de rigtige FPL-navne
-        def rens_chip_navn(c):
-            c = str(c).lower()
-            if 'wildcard' in c: return 'Wildcard'
-            if 'triple' in c or '3xc' in c: return 'Triple Captain'
-            if 'bboost' in c or 'bench' in c: return 'Bench Boost'
-            if 'free' in c or 'hit' in c: return 'Free Hit'
-            if 'manager' in c: return 'Ass. Manager'
-            import re
-            return re.sub(r'(_|\s)\d+', '', c).title() # Fallback der bare fjerner tal
-            
-        D_chips_long['Chip'] = D_chips_long['Rå_Chip'].apply(rens_chip_navn)
+        D = pd.merge(D_point, D_chips_long[['Entry id', 'GW', 'Chip']], on=['Entry id', 'GW'], how='left')
         
-        # Slå chips sammen per gameweek (så vi er sikre på der ikke sker dublet-fejl i merge)
-        chips_grouped = D_chips_long.groupby(['Entry id', 'GW'])['Chip'].apply(lambda x: ' & '.join(x.unique())).reset_index()
+        # Rens skriften (Fjerner underscores fra chips, så wildcard_1 bliver Wildcard 1)
+        D['Chip'] = D['Chip'].fillna("").str.replace('_', ' ').str.title()
         
-        # --- Flet det hele sammen ---
-        D_point['GW'] = D_point['GW'].astype(int)
-        D = pd.merge(D_point, chips_grouped, on=['Entry id', 'GW'], how='left')
-        D['Chip'] = D['Chip'].fillna("")
+        # Sikr at GW er hele tal for grafernes skyld
+        D['GW'] = D['GW'].astype(int)
         
         return D
         
